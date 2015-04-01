@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1410955360 source:d:\dropbox\dropbox\ec 2014\laboratório\pic\ec_mouse_week_2\pc - codeblocks\mouseconsole\main.cpp
+	<iostream>
+
+1412335669 source:c:\users\teste\desktop\pc - codeblocks\main.cpp
+	<iostream>
+	<stdio.h>
+	"windows.h"
+	"mpusbapi.h"
+
+1212676426 c:\users\teste\desktop\pc - codeblocks\mpusbapi.h
+
+1412945992 source:c:\bb\pc - codeblocks\main.cpp
+	<iostream>
+	<stdio.h>
+	"windows.h"
+	"mpusbapi.h"
+
+1212676426 c:\bb\pc - codeblocks\mpusbapi.h
+
+1413567377 source:c:\sdfagd\bb\pc - codeblocks\main.cpp
+	<iostream>
+	<stdio.h>
+	"windows.h"
+	"mpusbapi.h"
+
+1212676426 c:\sdfagd\bb\pc - codeblocks\mpusbapi.h
+
+1413821297 source:c:\pic_semana5\pc - codeblocks\main.cpp
+	<iostream>
+	<stdio.h>
+	"windows.h"
+	"mpusbapi.h"
+
+1212676426 c:\pic_semana5\pc - codeblocks\mpusbapi.h
+
+1413849229 source:c:\pic_semana5 mais melhor\pic_semana5\pc - codeblocks\main.cpp
+	<iostream>
+	<stdio.h>
+	"windows.h"
+	"mpusbapi.h"
+
+1212676426 c:\pic_semana5 mais melhor\pic_semana5\pc - codeblocks\mpusbapi.h
+
+1414166196 source:c:\pic5\pc - codeblocks\main.cpp
+	<iostream>
+	<stdio.h>
+	"windows.h"
+	"mpusbapi.h"
+
+1212676426 c:\pic5\pc - codeblocks\mpusbapi.h
+
+1414585366 source:c:\pic6\pc - codeblocks\main.cpp
+	<iostream>
+	<stdio.h>
+	"windows.h"
+	"mpusbapi.h"
+
+1212672826 c:\pic6\pc - codeblocks\mpusbapi.h
+
