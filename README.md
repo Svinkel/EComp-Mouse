@@ -7,4 +7,4 @@ A user interface was also developed allowing the user to change the resolution o
 
 In a final approach we were able to use the sensor as a small resolution camera.
 
-Project developed with Ricardo Vieira and Robert Serrão.
+Project developed with João Bauto and Robert Serrão.
